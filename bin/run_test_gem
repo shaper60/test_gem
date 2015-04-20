@@ -1,0 +1,5 @@
+#!/user/bin/env ruby
+
+require 'test_gem'
+
+puts TestGem.greet
